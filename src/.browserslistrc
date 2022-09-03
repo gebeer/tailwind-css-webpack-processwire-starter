@@ -1,0 +1,7 @@
+# Browsers that we support
+
+defaults
+#last 2 versions
+#not IE 10
+#not IE 11
+#> 1% in DE
