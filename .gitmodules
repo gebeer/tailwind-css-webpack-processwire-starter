@@ -1,3 +1,0 @@
-[submodule "site/modules/WebpackAssets"]
-	path = site/modules/WebpackAssets
-	url = https://github.com/gebeer/WebpackAssets.git
