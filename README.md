@@ -17,13 +17,6 @@ an opinionated starter for people who like to use Tailwind CSS with ProcessWire.
 3. copy the 'WebpackAssets' folder to `site/modules`
 4. install the new module 'WebpackAssets" and enter the path to your webpack.manifest.json in the module settings and save
 
-## Installation via git
-1. clone this repo into your ProcessWire root
-Example: root is at 'path/to/root'
-```
-cd path/to
-git clone https://github.com/gebeer/tailwind-css-webpack-processwire-starter.git root
-```
 ## Setup / Usage
 - change into the src folder and install dependencies
 ```
