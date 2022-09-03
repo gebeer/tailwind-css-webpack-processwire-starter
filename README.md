@@ -11,7 +11,7 @@ an opinionated starter for people who like to use Tailwind CSS with ProcessWire.
 - correct assets are loaded via ProcessWire WebpackAssets helper module
 - config split up in seperate files for readability and easy maintenance
 
-## Installation (manual way)
+## Installation
 1. Download
 2. copy the 'src' folder to your ProcessWire
 3. copy the 'WebpackAssets' folder to `site/modules`
